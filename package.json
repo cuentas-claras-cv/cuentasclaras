@@ -1,0 +1,10 @@
+{
+  "name": "cuentaclara",
+  "private": true,
+  "type": "module",
+  "description": "Contabilidad conversacional: sube statements, categoriza con IA y genera el reporte para el CPA",
+  "scripts": {
+    "dev": "netlify dev",
+    "test": "node tests/run.mjs"
+  }
+}
